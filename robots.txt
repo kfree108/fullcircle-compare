@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Staging copy. Canonical home for this content is fullcircleagency.com.
+# Every page carries noindex; do not submit a sitemap for this host.
