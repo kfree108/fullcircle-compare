@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Staging copy. Canonical home for this content is fullcircleagency.com.
-# Every page carries noindex; do not submit a sitemap for this host.
+# Every page here forwards to its page on fullcircleagency.com (fca_site.py forward-old-copy, article loop).
